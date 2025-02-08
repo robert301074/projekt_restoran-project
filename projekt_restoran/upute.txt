@@ -1,0 +1,1 @@
+get(id) triba napravit da se ispisuje za svaki id njegovi racuni tj invoice
